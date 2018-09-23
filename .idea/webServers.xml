@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0389abc3-17cb-420c-bafa-84a29a1fd47e" name="sad" url="http://112.137.129.120">
+        <fileTransfer host="112.137.129.120" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions compatibilityMode="true" dataProtectionLevel="Private" forceListCommand="true" keepAliveCommand="CWD" keepAliveTimeout="100000" passiveMode="true" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
